@@ -1,0 +1,17 @@
+{
+  "name": "refresh-probe-marketplace",
+  "owner": {
+    "name": "Jamie Burns"
+  },
+  "plugins": [
+    {
+      "name": "refresh-probe",
+      "source": {
+        "source": "github",
+        "repo": "jamieburns/writing-cowork",
+        "path": "0100_TestProduct/refresh-probe"
+      },
+      "description": "Throwaway plugin for testing Cowork's plugin/marketplace refresh mechanism (writing-cowork task 7c1b9e04). Not a real tool."
+    }
+  ]
+}
