@@ -9,7 +9,7 @@
       "name": "refresh-probe",
       "source": {
         "source": "git-subdir",
-        "url": "jamieburns/writing-cowork",
+        "url": "https://github.com/jamieburns/writing-cowork.git",
         "path": "0100_TestProduct/refresh-probe"
       },
       "description": "Throwaway plugin for testing Cowork's plugin/marketplace refresh mechanism (writing-cowork task 7c1b9e04). Not a real tool.",
